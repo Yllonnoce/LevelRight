@@ -1,5 +1,5 @@
-//import * as THREE from "./libs/three/three.module.js";
-import * as THREE from "https://cdnjs.cloudflare.com/ajax/libs/three.js/r119/three.module.js";
+import * as THREE from "./libs/three/three.module.js";
+//import * as THREE from "https://cdnjs.cloudflare.com/ajax/libs/three.js/r119/three.module.js";
 import { GLTFLoader } from "./libs/three/jsm/GLTFLoader.js";
 import { FBXLoader } from "./libs/three/jsm/FBXLoader.js";
 import { RGBELoader } from "./libs/three/jsm/RGBELoader.js";
